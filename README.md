@@ -1,11 +1,8 @@
 # GUIA
 
 ```
-  yarn install
+  $ yarn install
 
-```
-
-```
-  node index.js
+  $ node index.js
 
 ```
